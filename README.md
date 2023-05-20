@@ -4,7 +4,7 @@
 
 这让你在公众号创作时，把更多的时间专注于文章本身，而不是繁琐地调整文章样式。
 
-[在线使用](http://prod.zkqiang.cn/wxeditor)
+[在线使用](https://wxmvv.github.io/markdown2html-wechat/)
 
 ## 功能
 
@@ -16,6 +16,8 @@
 
 ## 关于
 
-本仓库 Fork 自 [yricat/wechat-format](https://github.com/lyricat/wechat-format)，并根据自用需求进行修改开发。
+## 感谢
 
-感谢他的创意和贡献！
+[yricat/wechat-format](https://github.com/lyricat/wechat-format)
+[wechat-mdeditor](https://github.com/zkqiang/wechat-mdeditor)
+感谢两位作者的创意和贡献！
