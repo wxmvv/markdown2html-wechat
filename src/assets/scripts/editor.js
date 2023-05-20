@@ -30,12 +30,14 @@ let app = new Vue({
       themeOption: [
         { label: 'default', value: 'default', author: '张凯强' },
         { label: 'lyric', value: 'lyric', author: 'Lyric' },
-        { label: 'lupeng', value: 'lupeng', author: '鲁鹏' }
+        { label: 'lupeng', value: 'lupeng', author: '鲁鹏' },
+        { label: 'wxm', value: 'wxm', author: 'wxm'}
       ],
       styleThemes: {
         default: defaultTheme,
         lyric: lyricTheme,
-        lupeng: lupengTheme
+        lupeng: lupengTheme,
+        wxm: wxmTheme
       },
       aboutDialogVisible: false
     };
