@@ -18,6 +18,7 @@
 
 ## 感谢
 
-[yricat/wechat-format](https://github.com/lyricat/wechat-format)
-[wechat-mdeditor](https://github.com/zkqiang/wechat-mdeditor)
+- [yricat/wechat-format](https://github.com/lyricat/wechat-format)
+- [wechat-mdeditor](https://github.com/zkqiang/wechat-mdeditor)
+
 感谢两位作者的创意和贡献！
